@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\6b9d0852b79f9f4561061f6fb22f49da2ba2f200\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a7504ff71291b49d7aa44553a1f4d71a79b53f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\5b81a235cda232246e9689aaaa93d143facbfc5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1fd1cc928ea1bfb1f186aeeba006f7f5720e5c56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\92a1d4874f83fe78a094687be96bd9e395d01f7a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_440918f454f910fbae74a0d6788d362500b352ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\7d0b23e75c9548040292dc2acb3d990cc64f9e14\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f45ec882e58b17851853122fdea809019b3b9b33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\e0d753992e81dc54a05dddbe74ca0540e94a48c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8b56dbe40fa4642a1134d026ac974bc95ac5e327\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\3770d0f1401ee717cc0bd99999e06b283de6ba12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_67ff555d8cd8861dfd6459a2a7c6cd40879aac2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\80cda2d47cf18c662300c914deee0ff9bf9a0431\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_fe4261afb7a698c53cd23f28488ef849f20bd8a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\e3b5964bcd7f651c56f70e9772e589b9e172b781\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_28e021f3c4fb373b4c96081bd10e36c7be28a6fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\5094d37505a74fa3b816132ec83aeaec3bb8a008\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_531d892935d20a00a82af329e3532e27974d76e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\8853ba88fd008de9a382c9208cebc6b94bade056\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fca74f04b96a8082fe484ee6fd875f419e1949c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\48f0f7be5195aa590672e68be81b31069bb04fcb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9ca6f119c842d42388ab4a59f0344f0b1ea574c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\291fc2e61faa7b45f0e576766a5f8e0bbc9ce4db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a9aba66e8ce1ddc1df268645309933d88283406\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\e8cce4b768eb94370e317c5139241911fad3fdbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b07a721882a20dbffd5106230c166062cbb20724\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_a476e4644e0b26f5f26925d4d2e70c929fce4080\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\87ddf35c659f37befceb95e63905983b44f8305f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11add6fca4b46c0c2b91d3f60b48dcf196ccb356\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\54f7bcc93fa71fc6ac7b3b30127aa2e7554db193\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_11ae0d86047fba58e230d9b047acb56ddc927bcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\d7b9fd0e3b78b6d9db675ccdd03cbb730f617dcb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0829558f9039388043bc3c9055c6036904546eda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_34aa7bbde5ff99976ba0901f4bfde2c91d6e4995\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\93851bce35018a44a1f778387ff9094ce97b31f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_484893c1456eaf33a8cedc315c2cf904273993bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\2f39890c0355c23fc0fcf5e577e597f68b1dd17e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6bd74d5047e3728493d51c27dd1b0a75150f87c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\cc8e2297c358ee0bb17b50a77ce16d1bab83b4ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e89e378a09df192029a923e645aeed8cf0fb8604\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\4badd51934e23a37adc49838d97bcb83bbb44c17\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f6e2e74d68a2a50e246fa9aa8ed7edc89544f5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\359cecae69bb49a8e66c3d2786a242136641103c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dc7328aaf66cab6e368bbeb0f3b493719fb2fb54\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\1980e6bff2d627daca35156b90018800a1bc49d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e263fe1c4b0dbc9f41715060ec631089ec762029\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\769dfc6bcb1513424ac5ba373774ab72121b5bbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0dd12dee3fb565a27af269993b8279788b2020ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\e740c20a5c7b0f62358896b78e4d69b80ca73ad2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65542f0a7de476515551d6cb00ab749001a8ca1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\54fed411f9a611ef4550074f051711b024efd88b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b541ccd34d5a5d1cf886b947d5e42901c3472e3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\shared\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1827612e5e8b60c933f9056ad7b08ee0f762eda7">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\4\classes_0aaa7a63c2fd5025932d262f4ed5b5a5ac9d43b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\d57d5a26df9e87c023e296b1f1b86f17c69dc420\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_daf76b78052ccf86a1635da4e1bc821cb044b1cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\ae77a4455226559875dc6c0c7d9f572ccc6bf03e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5fe7a32d8bf4376b27e9e9a6f146ad83d499e160\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\1736ee6c603ec0260b7f9de993dbe4c910743710\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5fad08c2f07656aafe988e84bda7c2cbefbe1490\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\36f8467fe4234cefb051797eb007bac8b4b83c33\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12b8f3b418a56216d2e188ba23d53dfb4cd91e34\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\1928904f3a4fbe00f28deb8b69a84d0eca508df5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef5c39615532a6e30203a0cc2ffb364e9134b935\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\8691f00fb27ed7dafeb4ca4c393ea3d99191be37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_406d7d45a1bea5fb6e10ccb566b1aedb2a1d01c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\e13e6a3bcee3f15a6ab05acca50cfb9427268c77\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_998cd140071e311d44ee8b04bbfdedba6d4e3b7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\d1ebc77b90c61884989dbefbe46c817b887e3fe7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cb1724b851e2cf85ec3cdc2b353097ff5f074fb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\1d31e680187fd795bbed44c3731c50ed0a1cc47b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eee9de2fc91a4e66751d9649668628776cf93477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\8f72ba96947278168c18ef08ae7ef7e3dc620274\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cd6013183eb49b45e281a7b2e29eaad5b28d62b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\31bab3cd62720755a053c6420f9ac9a453f8a5db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7647552575c07322d65faea502736ff23fc972ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\348d37141d330d80cbea8f00bd00dec24d4fac05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_51e7d110e71af019791172e44158c9775511e0ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\2fe29eaea69956365c769639e11dfe1631bcf31a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e0ae88c99fedff0c16ee4c19ee16960b0812865\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\5ecbfe98bbe304f0f20faef3c951ca3519a65dbc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c699ed2ea78158a338ec000200c210a47645388b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\3e8bc176f6ecd7b4a0a2b7cbfd8b95eb8698b462\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7586481cb37ba9be2ab9e1f92596c4bc8dfa7339\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\c98cd6779d4227e334334ad85f154a75f1731502\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d1ffad1664149e62ebe9d331be498b696dd74623\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\840fa080e8e7a4504d715c14ea2aa5770e013b2d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db2aa5ed266dddb871e82870dea7f8ed97729479\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\daa05fc3764c96bfa63d6fec1d99ecf4ca02140d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d6db4b1cf91593d39fcc606a02c40691a173a62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\9dbefa3b9fdef1a8ec9f7740b660bed1f91ae595\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_00d2d3e2cfcb139711cd1adf1c1e5864c2621d48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\80cda2d47cf18c662300c914deee0ff9bf9a0431\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d7832eea88dd349de02d317f84127a80f1ad83f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\86f593eaf82ad677d4bfa1d43a89009de9e4ab6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_14dee29e49b16ec0fd43e208f4dcb4564a8dea2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\15fdad4533ea01b0d760f55898497c2943975926\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd99ee005adbf61adc44ef8ec704ab22c15bbbf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\25c8d0b08d237b7875c36c01b776e6d3e66c1fc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d07a3f9b9abfd81831e1ced7044fcfa1f0667dcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.4\4d72fb811c7b3c0e7f412112020d4430f044e510\otto-1.3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d72fb811c7b3c0e7f412112020d4430f044e510">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\otto-1.3.4_77f8f9083cc6adfa3363cdc422df9194339085bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\abb35cc74fc3de39f891960c3c1f3c79f1aac735\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3631967708d0a8857442ecb6ce71cff3978dcee5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\9e5150f76998b939be38442ef1c99dfe9aa3453d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26d44fe75595acda3eeccddd169aad2ba84473f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\75c60da5653a50c3c7c1c07824165ea8c9cebaac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e95895111c07af6fbcb633b5777769f0372676ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\4b770a71d0bdfe8f39fd2ba41d1bad0cb026fad9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b9649532f77e924dfc3d718b854dd3e120dc161c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\a053ab7a8226e47364589acfa7b304db472034c0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f72ebd971e4eb96af86f32b2ee9abd1514e4d4e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\8787505849ca3c1ac3a8b55cddad5fa0df696fda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ebb6ccfdecd4d9bf6c0a2cd2cf38581f3162b15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\eda35a4724f2cdcf540735729b2ea715b688ded2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43b433a5a59eeb0dda465be6b4b1079d656f084a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\43b1afffb12b1f651527f3fc668cda0c066d52f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_df291ba6959c9b2c945d179711424bd06e8332e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\libs\opencsv-3.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2858373af0681aafd3d79fdd533cc9127959c9ea">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\2\opencsv-3.3_c459c9a9c5070b06b0309962ffd5756dbb07be6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\a4fb92c7c7c6e0a24d6a5bc0cb1ccb1a19fea9db\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a06470bf557e3b8981c0c45b1360dc02f056f81f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\ff1215965ae53c7b518805252c0070481bd61a0d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8fbc10dcac4414cbe5a931fe736551d677ba533\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\3db899c09268197b8636b1131e0501b19845803c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_259497877cd115938ea34bb1bce62c199af26425\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\14c8b1dc422d6d1639c75da0806ab4d6e7c51dc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dee757606e18fc0bf211ba378c34296b55faceed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\b27dafe8fb6e5a57e54663925582fc4e6e3212de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d0aff13a27d28e7363f9d6c4f4e62d0f13a89bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\calista\.android\build-cache\2cefa007a10170393ac73324304a70508e005c56\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\calista\Documents\Tugas Akhir\Dokumen Tugas Akhir Final\Sidang-AAL-ActivityMonitoringApp\mobile\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8aa06f2c3929bcabb0822870dc448648776c0794\classes.dex" />
+    </item>
+
+</items>
